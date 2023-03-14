@@ -1,0 +1,11 @@
+C:\Users\poluyannv\source\repos\sharpMarch\sharpMarch\bin\Debug\netcoreapp3.0\sharpMarch.exe
+C:\Users\poluyannv\source\repos\sharpMarch\sharpMarch\bin\Debug\netcoreapp3.0\sharpMarch.deps.json
+C:\Users\poluyannv\source\repos\sharpMarch\sharpMarch\bin\Debug\netcoreapp3.0\sharpMarch.runtimeconfig.json
+C:\Users\poluyannv\source\repos\sharpMarch\sharpMarch\bin\Debug\netcoreapp3.0\sharpMarch.runtimeconfig.dev.json
+C:\Users\poluyannv\source\repos\sharpMarch\sharpMarch\bin\Debug\netcoreapp3.0\sharpMarch.dll
+C:\Users\poluyannv\source\repos\sharpMarch\sharpMarch\bin\Debug\netcoreapp3.0\sharpMarch.pdb
+C:\Users\poluyannv\source\repos\sharpMarch\sharpMarch\obj\Debug\netcoreapp3.0\sharpMarch.csprojAssemblyReference.cache
+C:\Users\poluyannv\source\repos\sharpMarch\sharpMarch\obj\Debug\netcoreapp3.0\sharpMarch.AssemblyInfoInputs.cache
+C:\Users\poluyannv\source\repos\sharpMarch\sharpMarch\obj\Debug\netcoreapp3.0\sharpMarch.AssemblyInfo.cs
+C:\Users\poluyannv\source\repos\sharpMarch\sharpMarch\obj\Debug\netcoreapp3.0\sharpMarch.dll
+C:\Users\poluyannv\source\repos\sharpMarch\sharpMarch\obj\Debug\netcoreapp3.0\sharpMarch.pdb
