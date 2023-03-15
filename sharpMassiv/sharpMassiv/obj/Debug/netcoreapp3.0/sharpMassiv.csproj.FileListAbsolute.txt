@@ -1,0 +1,11 @@
+C:\Users\poluyannv\source\repos\sharpMassiv\sharpMassiv\bin\Debug\netcoreapp3.0\sharpMassiv.exe
+C:\Users\poluyannv\source\repos\sharpMassiv\sharpMassiv\bin\Debug\netcoreapp3.0\sharpMassiv.deps.json
+C:\Users\poluyannv\source\repos\sharpMassiv\sharpMassiv\bin\Debug\netcoreapp3.0\sharpMassiv.runtimeconfig.json
+C:\Users\poluyannv\source\repos\sharpMassiv\sharpMassiv\bin\Debug\netcoreapp3.0\sharpMassiv.runtimeconfig.dev.json
+C:\Users\poluyannv\source\repos\sharpMassiv\sharpMassiv\bin\Debug\netcoreapp3.0\sharpMassiv.dll
+C:\Users\poluyannv\source\repos\sharpMassiv\sharpMassiv\bin\Debug\netcoreapp3.0\sharpMassiv.pdb
+C:\Users\poluyannv\source\repos\sharpMassiv\sharpMassiv\obj\Debug\netcoreapp3.0\sharpMassiv.csprojAssemblyReference.cache
+C:\Users\poluyannv\source\repos\sharpMassiv\sharpMassiv\obj\Debug\netcoreapp3.0\sharpMassiv.AssemblyInfoInputs.cache
+C:\Users\poluyannv\source\repos\sharpMassiv\sharpMassiv\obj\Debug\netcoreapp3.0\sharpMassiv.AssemblyInfo.cs
+C:\Users\poluyannv\source\repos\sharpMassiv\sharpMassiv\obj\Debug\netcoreapp3.0\sharpMassiv.dll
+C:\Users\poluyannv\source\repos\sharpMassiv\sharpMassiv\obj\Debug\netcoreapp3.0\sharpMassiv.pdb
